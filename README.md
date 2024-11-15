@@ -22,6 +22,8 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 
+![](Assets/main_block.png)
+
 <div align="center">
   <a href="mailto:jeetbpanchal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
@@ -44,7 +46,6 @@
     <a href="https://github.com/SpideyP00L/network/members"><img src="https://img.shields.io/github/forks/SpideyP00L/SpideyP00L.svg?color=blue&logo=github"></a>
 </p>
 
-
 ---
 
 <h2 align="center">⚒️ My Tools & Technologies ⚒️</h2>
@@ -60,25 +61,25 @@
     <tr style="background-color: #ffffff; border-bottom: 1px solid #ddd;">
       <td style="padding: 12px; font-weight: bold;">Mobile Development</td>
       <td style="padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,androidstudio" height="40" alt="Mobile Development Icons"/>
+        <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,androidstudio,apple" height="40" alt="Mobile Development Icons"/>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; border-bottom: 1px solid #ddd;">
       <td style="padding: 12px; font-weight: bold;">Frontend Development</td>
       <td style="padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" height="40" alt="Frontend Development Icons"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind" height="40" alt="Frontend Development Icons"/>
       </td>
     </tr>
     <tr style="background-color: #ffffff; border-bottom: 1px solid #ddd;">
       <td style="padding: 12px; font-weight: bold;">Backend Development</td>
       <td style="padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" height="40" alt="Backend Development Icons"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" height="40" alt="Backend Development Icons"/>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9; border-bottom: 1px solid #ddd;">
       <td style="padding: 12px; font-weight: bold;">Version Control & Tools</td>
       <td style="padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=git,vscode,github" height="40" alt="Dev Tools Icons"/>
+        <img src="https://skillicons.dev/icons?i=git,vscode,github,gitlab" height="40" alt="Dev Tools Icons"/>
       </td>
     </tr>
     <tr style="background-color: #ffffff; border-bottom: 1px solid #ddd;">
@@ -89,6 +90,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 ---
