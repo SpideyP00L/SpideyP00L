@@ -8,8 +8,6 @@
 
 <div align="center">
 
-🔭 **Currently Working as:** Web Application Developer at **OrthoEssential**  
-
 🌀 **Exploring:** Advanced **SwiftUI Animations** and **Jetpack Compose**  
 
 🌱 **Learning:** AWS and Firebase Integration  
